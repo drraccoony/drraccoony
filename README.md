@@ -7,5 +7,5 @@ I absoutely love learning new things and crave building things and being creativ
 - 📫 How to reach me: http://telegram.me/drraccoon or @drraccoon on Twitter
 - 😄 Pronouns: He/Him
 
-### Using Git more
+### Lacking reposositories
   I only recently learned about the huge benefits of using git repos, and am working on mirroring all my offline projects onto the platform. Some private / sensitive repo's are secured on a private git server elsewhere.
