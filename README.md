@@ -10,4 +10,4 @@ I absoutely love learning new things and crave building things and being creativ
 - 📫  How to reach me: http://telegram.me/drraccoon or @drraccoon on Twitter
 - 😄  Pronouns: He/Him
 
-Avid supporter of the Godot project, Bootstrapp and Fontawesome. Finacinally supporting Godot monthly. Godot FTW!
+Avid supporter of the [Godot](https://godotengine.org/) project, [Bootstrapp](https://getbootstrap.com/) and [FontAwesome](https://fontawesome.com/). Finacinally [supporting Godot](https://www.patreon.com/bePatron?u=5597979) monthly.
