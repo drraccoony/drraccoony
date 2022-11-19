@@ -7,7 +7,7 @@ I absoutely love learning new things and crave building things and being creativ
 - 📚  Wanting to get better with `C#`
 - 🧰  Primarily use `EmberJs`, `Vue`, and `Laravel` professionally
 - 👌  Most familiar & comfortable with `PHP`, `GML`, `JavaScript` and `C Basic`
-- 📫  How to reach me: http://telegram.me/drraccoon or @drraccoon on Twitter
+- 📫  How to reach me: http://telegram.me/drraccoon, https://mastodon.social/@Drraccoon or @drraccoon on Twitter
 - 😄  Pronouns: He/Him
 
 Avid supporter of the [Godot](https://godotengine.org/) project, [Bootstrapp](https://getbootstrap.com/) and [FontAwesome](https://fontawesome.com/). Finacinally [supporting Godot](https://www.patreon.com/bePatron?u=5597979) monthly.
