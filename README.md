@@ -3,6 +3,7 @@
 Part Time tinkerer of coding and video game projects. Several years of experience with Gamemaker Studio and excited to start working in something more powerful!
 I absoutely love learning new things and crave building things and being creative.
 
+- 💼  Fulltime Fullstack Software Engineer at worldwide E-commerece business
 - 🌱  I’m currently dabbling with `GDScript (Godot)`, and poking around into `Rust`
 - 🧰  Primarily use `JavaScript`, and `Laravel` professionally
 - 👌  Most familiar & comfortable with `PHP`, `JS`, `GML`, `JavaScript` and `C Basic`
