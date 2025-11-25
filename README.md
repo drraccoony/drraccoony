@@ -1,6 +1,6 @@
 ## I am Shawn! 👋 (He/Him)
 
-Part Time tinkerer of coding and video game projects. Several years of experience with Gamemaker Studio and excited to start working in something more powerful!
+IRL Name is Shawn, but please call me **Rico**. Part Time tinkerer of coding and video game projects. Several years of experience with Gamemaker Studio and excited to start working in something more powerful!
 I absoutely love learning new things and crave building things and being creative.
 
 - 💼  Fulltime Fullstack Software Engineer at worldwide E-commerce company
