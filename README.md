@@ -7,7 +7,7 @@ I absoutely love learning new things and crave building things and being creativ
 - 🌱  I’m currently dabbling with `GDScript (Godot)`, and poking around into `Rust`
 - 🧰  Primarily use `JavaScript`, `Tailwind`, `VueJS` and `Laravel` professionally
 - 👌  Most familiar & comfortable with `PHP`, `JS`, `Tailwind`, and `JavaScript` (Always happy to learn new things!)
-- 📫  Reach out to me: http://telegram.me/drraccoon, <a rel="me" href="https://mastodon.social/@Drraccoon">https://mastodon.social/@Drraccoon</a> or [@drraccoon](https://twitter.com/DrRaccoon) on Twitter
+- 📫  Reach out to me: http://telegram.me/drraccoon, or `DrRaccoony` (Discord)
 
 Avid supporter of the [Godot](https://godotengine.org/) project, [Bootstrapp](https://getbootstrap.com/) and [FontAwesome](https://fontawesome.com/). Finacinally [Backing Godot](https://www.patreon.com/bePatron?u=5597979).
 
